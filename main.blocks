@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=":E052SibXbS9KEVbmgw=" x="0" y="0"/><block type="device_forever" id="M}GF`icn(gv[MDngm~4A" x="205" y="0"/><block type="device_pin_event" id="W$%1LU{*|;a%gA,}`qCd" x="0" y="159"><field name="name">TouchPin.P0</field></block></xml>
